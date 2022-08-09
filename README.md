@@ -7,7 +7,7 @@ I also work as Dr. Daniels' research assistant.
 
 ## Research
 My primary research interests lie in Bayesian semi/non parametric modeling, causal inference, joint modeling of longitudinal and survival data, 
-and missing data methodology. I am also interested in the applications of statistics in public health and medicine. 
+and missing data methodology. I am also interested in the applications of Statistics in public health and medicine. 
 
 
 ## Contact
