@@ -7,6 +7,7 @@ I also work as Dr. Daniels' research assistant.
 
 ## Research Interests
 -Bayesian semi/non parametric modeling, causal inference, methodology for (incomplete) longitudinal and survival data, variable selection and model selection. 
+
 -Statistics in public health and medicine. 
 
 
