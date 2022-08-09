@@ -5,9 +5,9 @@ I am a graduate student at the University of Florida, currently working on my Ph
 I also work as Dr. Daniels' research assistant.
 
 
-## Research
-My primary research interests lie in Bayesian semi/non parametric modeling, causal inference, joint modeling of longitudinal and survival data, 
-and missing data methodology. I am also interested in the applications of Statistics in public health and medicine. 
+## Research Interests
+-Bayesian semi/non parametric modeling, causal inference, methodology for (incomplete) longitudinal and survival data, variable selection and model selection. 
+-Statistics in public health and medicine. 
 
 
 ## Contact
