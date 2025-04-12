@@ -2,7 +2,7 @@
 
 
 I am a graduate student at the University of Florida, currently working on my Ph.D. in Statistics. My academic advisor is Dr. Michael J. Daniels.
-I also work as Dr. Daniels' research assistant.
+
 
 
 ## Research Interests
